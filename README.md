@@ -2,7 +2,7 @@
 
 Coding exercises for the Natural Language Processing concentration, part of Udacity's Artificial Intelligence Nanodegree program.
 
-............................................................
+....................................................................
 
 ## Setup
 
