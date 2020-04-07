@@ -2,6 +2,8 @@
 
 Coding exercises for the Natural Language Processing concentration, part of Udacity's Artificial Intelligence Nanodegree program.
 
+........................................
+
 ## Setup
 
 You need Python 3.6+, and the packages mentioned in `requirements.txt`. You can install them using:
